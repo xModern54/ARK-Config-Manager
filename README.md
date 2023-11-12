@@ -23,5 +23,5 @@
 
 ### Version for Ark Survival Ascended in plans
 
-![ConfigManager](https://imgur.com/a/ZZhqh9J)
+![ConfigManager](PreviewAssets/Screenshot_14.png)
 

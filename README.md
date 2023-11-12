@@ -2,15 +2,15 @@
 
 
 
--User friendly interface.
+**-User friendly interface.**
 
--8 pre-made graphical configs.
+**-8 pre-made graphical configs.**
 
--Supported EN and RU localizations.
+**-Supported EN and RU localizations.**
 
--Ability to create custom configs.
+**-Ability to create custom configs.**
 
--Many other tweaks for improving game performance.
+**-Many other tweaks for improving game performance.**
 
 
 
@@ -23,5 +23,5 @@
 
 ### Version for Ark Survival Ascended in plans
 
-![ConfigManager]()
+![ConfigManager](https://imgur.com/a/ZZhqh9J)
 

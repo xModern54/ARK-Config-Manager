@@ -24,4 +24,5 @@
 ### Version for Ark Survival Ascended in plans
 
 ![ConfigManager](PreviewAssets/Screenshot_14.png)
+![Settings](PreviewAssets/Screenshot_15.png)
 

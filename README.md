@@ -16,10 +16,12 @@
 
 ## Developed with UE 4.
 
-First release - 12.09.2021.
+**First release - 12.09.2021.**
 
-End of support - 06.03.2023.
+**End of support - 06.03.2023.**
 
 
 ### Version for Ark Survival Ascended in plans
+
+![ConfigManager]()
 
